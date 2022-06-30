@@ -9,7 +9,6 @@ fi
 # Look in PWD last.
 export PATH=$PATH:.
 
-
 ## Standard Location(s) ##
 # Git Setup #
 # Root.
