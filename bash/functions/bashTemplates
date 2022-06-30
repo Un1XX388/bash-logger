@@ -1,3 +1,4 @@
+#! /bin/bash
 
  ###############
 ## Function(s) ##
@@ -5,9 +6,12 @@
 IFS='' read -r -d '' FUNCTION_NAME_DOC <<"EOF"
 #/ DESCRIPTION:
 #/	TODO
-#/ 
+#/
 #/ USAGE: functionName [OPTIONS]... [ARGUMENTS]...
-#/  
+#/
+#/ NOTE(S):
+#/	- None.
+#/
 #/ OPTION(S):
 #/	-h, --help
 #/		Print this help message. Function will return code of '0'. No processing will be
@@ -16,14 +20,16 @@ IFS='' read -r -d '' FUNCTION_NAME_DOC <<"EOF"
 #/ 
 #/ RETURN CODE(S):
 #/	- 0:
-#/		Returned when help message is requested and when process is started
-#/		successfully.
+#/		Returned when:
+#/			- Help message is requested OR
+#/			- Processing is successful.
 #/	- 20:
-#/		Returned when given option is invalid.
-#/ 
+#/		Returned when:
+#/			- Given option is invalid.
+#/
 #/ EXAMPLE(S):
 #/	functionName --help
-#/ 
+#/
 #/ TODO(S):
 #/	- TODO
 EOF
