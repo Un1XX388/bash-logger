@@ -1,0 +1,37 @@
+#! /bin/bash
+
+ ##################
+## System Tool(s) ##
+ ##################
+alias src='source $HOME/.bashrc'
+alias ssh='ssh -X'
+
+ ##################
+## Combination(s) ##
+ ##################
+## Environment Config ##
+# Clear, show current, location, and location's content(s).
+alias c='clear;pwd;ls -a'
+# Same as 'c' pluse git status and branch.
+alias g='c;git status;git branch -a'
+# Git fetch.
+alias gF='git fetch --all -ftp'
+
+ #######################
+## Development Tool(s) ##
+ #######################
+## Eclipse ##
+#alias eclipse='nohup /opt/eclipse/eclipse &'
+
+## VS Code ##
+# NoOp
+
+## Docker ##
+# Basic(s).
+# NoOp
+# Delete dangling image(s).
+#alias dangling='sudo docker rmi $(sudo docker images --filter dangling=ture -p)'
+
+## Kubectl ##
+# NoOp
+

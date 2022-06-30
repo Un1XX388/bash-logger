@@ -1,0 +1,1064 @@
+#1651175969
+mkdir bash
+#1651176033
+gedit .bashrc &
+#1651176043
+gedit .bash_profile &
+#1651176112
+gedit bash/* &
+#1651176533
+source ~/.bashrc
+#1651176552
+source ~/.bashrc 
+#1651176576
+source ~/.bashrc
+#1651176580
+src
+#1651176582
+c
+#1651176614
+mkdir -p Documents/Python/conways_game_of_life
+#1651176619
+cd Documents/Python/conways_game_of_life/;c
+#1651176718
+gedit conways_game_of_life.py &
+#1651177057
+python
+#1651177122
+python --help
+#1651177198
+ls /usr/bin/python3.10 
+#1651177207
+chmod +x conways_game_of_life.py 
+#1651177212
+c;./conways_game_of_life.py 
+#1651177546
+cd ../../../Downloads/Apps/Telegram/
+#1651177547
+c
+#1651177563
+chmod +x tsetup.3.7.3.tar.xz 
+#1651184922
+telegram
+#1651184928
+telinit 
+#1651184935
+telinit --help
+#1651184960
+sudo shutdown now
+#1651243015
+cd Documents/Python/conways_game_of_life/
+#1651243019
+gedit conways_game_of_life.py &
+#1651243026
+cd ../;c
+#1651243044
+mkdir tests
+#1651243056
+mv conways_game_of_life/ tests/
+#1651243057
+c
+#1651243070
+gedit tmp.py &
+#1651243087
+chmod +x tmp.py
+#1651243092
+c;tmp.py
+#1651243130
+exit
+#1651251043
+gsettings set org.gnome.mutter experimental-features “[‘scale-monitor-framebuffer’]”
+#1651251064
+gsettings set org.gnome.mutter experimental-features "[‘scale-monitor-framebuffer’]"
+#1651251071
+gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
+#1651251083
+exit
+#1651243390
+cd Documents/Python/;c
+#1651243395
+gedit tmp.py &
+#1651243403
+c;tmp.py
+#1651253406
+cp tmp.py tmp2.py
+#1651253413
+gedit tmp2.py &
+#1651255283
+exit
+#1651291943
+xinput list
+#1651292006
+xinput list-props 7
+#1651292015
+xinput list-props 6
+#1651292062
+xinput list-props 4
+#1651292069
+xinput list-props 2
+#1651342992
+cd /dev/sda1
+#1651343513
+lsblk
+#1651343652
+ls /dev/sda1
+#1651343698
+cd /dev/sda1
+#1651343724
+mkdir /common
+#1651343731
+sudo mkdir /common
+#1651343746
+cd /common/
+#1651343770
+mkdir Documents
+#1651343780
+cd /
+#1651343783
+ls -l
+#1651343836
+sudo chown reedclanton /common
+#1651343840
+ls -l
+#1651343848
+cd common/
+#1651343855
+mkdir Documents
+#1651343856
+c
+#1651343864
+mkdir Downloads
+#1651343875
+mkdir Music
+#1651343883
+mkdir Pictures
+#1651343910
+mkdir Videos
+#1651343972
+sudo mount /dev/sda1 /common
+#1651344156
+ls /dev/sda1
+#1651344162
+sudo mount /dev/sda1 /common
+#1651344173
+cd /common
+#1651344244
+c
+#1651344254
+mkdir Downloads
+#1651344264
+ls -l /
+#1651344296
+chown reedclanton /common
+#1651344302
+sudo chown reedclanton /common
+#1651344304
+Qaws olp 1
+#1651344324
+sudo chown reedclanton /common
+#1651344723
+exit
+#1651343680
+c
+#1651343937
+ls Documents/
+#1651344206
+ls Downloads/
+#1651344232
+mv -f Downloads/Apps /common/Downloads/
+#1651344724
+exit
+#1651344841
+cd /dev/sda1
+#1651344876
+sudo mount /dev/sda1 /common
+#1651344887
+cd /common/
+#1651344888
+c
+#1651344923
+ls -l /
+#1651344931
+exit
+#1651345022
+cd /
+#1651345024
+ls -l
+#1651345040
+sudo mount /dev/sda1 /common
+#1651345056
+ls -l
+#1651345058
+c
+#1651345090
+cd /run/media/reedclanton/common/
+#1651345093
+cd ../;c
+#1651345096
+ls -l
+#1651345101
+cd common/;c
+#1651345105
+mkdir Downloads
+#1651345127
+cp ~/Downloads/Apps Downloads/
+#1651345134
+cp -r ~/Downloads/Apps Downloads/
+#1651345137
+c
+#1651345140
+ls Downloads/
+#1651345153
+ls ~/Documents/
+#1651345168
+mkdir Documents
+#1651345184
+cp -r ~/Documents/Python Documents/
+#1651345187
+c
+#1651345195
+exit
+#1651345281
+cd /run/media/reedclanton/common/;c
+#1651345284
+ls Documents/
+#1651345311
+exit
+#1651345312
+exitr
+#1651345314
+exit
+#1651429625
+cd Documents/Python/;c
+#1651429642
+mv tests/conways_game_of_life conways_game_of_life
+#1651429658
+gedit conways_game_of_life/* &
+#1651429679
+gedit tmp.py &
+#1651634383
+cd Documents/Python/;c
+#1651634396
+ls tests/
+#1651634400
+rm tests/
+#1651634405
+rm -r tests/
+#1651634407
+c
+#1651634441
+exit
+#1651880959
+cd Downloads/Apps/Arduino_IDE/arduino-1.8.19-linux64/arduino-1.8.19/
+#1651880961
+c
+#1651880970
+c;install.sh
+#1651880989
+c;sudo install.sh
+#1651881000
+c;sudo ./install.sh
+#1651884992
+gedit .bashrc &
+#1651885000
+gedit .bash_profile &
+#1652109759
+cd Documents/Python
+#1652109760
+g
+#1652109773
+ls conways_game_of_life/
+#1652109785
+cp tmp.py conways_game_of_life/tmp.py
+#1652109796
+mv tmp2.py conways_game_of_life/
+#1652109801
+gedit tmp.py &
+#1652110056
+gedit conways_game_of_life/tmp.py &
+#1652113327
+cd Documents/py
+#1652113332
+cd Documents/Python/;c
+#1652113338
+gedit tmp.py &
+#1652113356
+c;tmp.py
+#1652113615
+cd Documents/Python/;c
+#1652113618
+gedit tmp.py &
+#1652113647
+c;tmp.py
+#1652114724
+gedit test.py &
+#1652114758
+chmod +x test.py
+#1652114761
+c;test.py
+#1652115197
+c;tmp.py
+#1652115413
+c;test.py
+#1652115453
+c;tmp.py
+#1652116708
+cp tmp.py tmp2.py
+#1652116713
+gedit tmp2.py &
+#1652116811
+c;test.py
+#1652117131
+c;tmp2.py
+#1652117176
+c;test.py
+#1652117179
+c;tmp2.py
+#1652117224
+c;tmp.py
+#1652151024
+java -Xmx32G -Xms1G minecraft.jar net.minecraft.LauncherFrame
+#1652151113
+cd /usr/bin
+#1652151114
+c
+#1652151352
+cd ./find . -name minecraft.jar
+#1652151361
+find . -name minecraft.jar
+#1652151374
+find/ -name minecraft.jar
+#1652151379
+find / -name minecraft.jar
+#1652151387
+sudo find / -name minecraft.jar
+#1652151541
+sudo ls|grep mine
+#1652151545
+sudo ls|grep minecraft
+#1652151555
+sudo find . -name minecraft.jar
+#1652152050
+cd /home/.var/
+#1652152156
+cd /home/reedclanton/.var/app/com.mojang.Minecraft/
+#1652152159
+ps -A
+#1652152175
+ps -A|grep mine
+#1652152238
+ps -o pid,user,%mem,command ax
+#1652152244
+ps -o pid,user,%mem,command ax|grep mine
+#1652152911
+c
+#1652152917
+19912 reedcla+  3.3 	/home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft/runtime/java-runtime-beta/linux/java-runtime-beta/bin/java 	-Xss1M 
+#1652152918
+	-Djava.library.path=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/bin/469a-904c-282f-5e75 	-Dminecraft.launcher.brand=minecraft-launcher 	-Dminecraft.launcher.version=2.3.136 	-cp /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/versions/1.18.2/1.18.2.jar 	-Xmx32G 	-XX:+UnlockExperimentalVMOptions 	-XX:+UseG1GC 	-XX:G1NewSizePercent=20 	-XX:G1ReservePercent=20 	-XX:MaxGCPauseMillis=50 	-XX:G1HeapRegionSize=32M 	-Dlog4j.configurationFile=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets/log_configs/client-1.12.xml 	net.minecraft.client.main.Main 	--username un1xx388 	--version 1.18.2 	--gameDir /home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft 	--assetsDir /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets 	--assetIndex 1.18 	--uuid 71a09d8c8ed04c6a8054bf701a6eb5e6 	--accessToken eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQzNzUyODM0NTkwMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNzc2ZWUxNzMtNTE3NS00NTVlLWE3MDAtYWIzZTRlOTY2MjU0IiwibmJmIjoxNjUyMTUyMTMxLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTIyMzg1MzEsImlhdCI6MTY1MjE1MjEzMSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiJkYzZmMGIzOTRkYzhkMDhhY2RlNzJkMzBiZmUzZmRmYiJ9.vsr7WCOkm_YJTsfruPV3hJkGG8lFyH8od_u-K_cnzpc 	--clientId ZvJyqNMQCW3/B72djMf+IK/HPoKQBEQ7Dd0H3uXifhdP9eSj2qcxDC6YSlWSIf7S 	--xuid 2535437528345901 	--userType msa 	--versionType release
+#1652152975
+19912 reedcla+  3.3 	/home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft/runtime/java-runtime-beta/linux/java-runtime-beta/bin/java 	-Xss1M 
+#1652152976
+	-Djava.library.path=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/bin/469a-904c-282f-5e75 	-Dminecraft.launcher.brand=minecraft-launcher 	-Dminecraft.launcher.version=2.3.136 	-cp /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/versions/1.18.2/1.18.2.jar 	-Xmx32G 	-XX:+UnlockExperimentalVMOptions 	-XX:+UseG1GC 	-XX:G1NewSizePercent=20 	-XX:G1ReservePercent=20 	-XX:MaxGCPauseMillis=50 	-XX:G1HeapRegionSize=32M 	-Dlog4j.configurationFile=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets/log_configs/client-1.12.xml 	net.minecraft.client.main.Main 	--username un1xx388 	--version 1.18.2 	--gameDir /home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft 	--assetsDir /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets 	--assetIndex 1.18 	--uuid 71a09d8c8ed04c6a8054bf701a6eb5e6 	--accessToken eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQzNzUyODM0NTkwMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNzc2ZWUxNzMtNTE3NS00NTVlLWE3MDAtYWIzZTRlOTY2MjU0IiwibmJmIjoxNjUyMTUyMTMxLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTIyMzg1MzEsImlhdCI6MTY1MjE1MjEzMSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiJkYzZmMGIzOTRkYzhkMDhhY2RlNzJkMzBiZmUzZmRmYiJ9.vsr7WCOkm_YJTsfruPV3hJkGG8lFyH8od_u-K_cnzpc 	--clientId ZvJyqNMQCW3/B72djMf+IK/HPoKQBEQ7Dd0H3uXifhdP9eSj2qcxDC6YSlWSIf7S 	--xuid 2535437528345901 	--userType msa 	--versionType release
+#1652153006
+/home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft/runtime/java-runtime-beta/linux/java-runtime-beta/bin/java 	-Xss1M 
+#1652153007
+	-Djava.library.path=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/bin/469a-904c-282f-5e75 	-Dminecraft.launcher.brand=minecraft-launcher 	-Dminecraft.launcher.version=2.3.136 	-cp /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/versions/1.18.2/1.18.2.jar 	-Xmx32G 	-XX:+UnlockExperimentalVMOptions 	-XX:+UseG1GC 	-XX:G1NewSizePercent=20 	-XX:G1ReservePercent=20 	-XX:MaxGCPauseMillis=50 	-XX:G1HeapRegionSize=32M 	-Dlog4j.configurationFile=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets/log_configs/client-1.12.xml 	net.minecraft.client.main.Main 	--username un1xx388 	--version 1.18.2 	--gameDir /home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft 	--assetsDir /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets 	--assetIndex 1.18 	--uuid 71a09d8c8ed04c6a8054bf701a6eb5e6 	--accessToken eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQzNzUyODM0NTkwMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNzc2ZWUxNzMtNTE3NS00NTVlLWE3MDAtYWIzZTRlOTY2MjU0IiwibmJmIjoxNjUyMTUyMTMxLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTIyMzg1MzEsImlhdCI6MTY1MjE1MjEzMSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiJkYzZmMGIzOTRkYzhkMDhhY2RlNzJkMzBiZmUzZmRmYiJ9.vsr7WCOkm_YJTsfruPV3hJkGG8lFyH8od_u-K_cnzpc 	--clientId ZvJyqNMQCW3/B72djMf+IK/HPoKQBEQ7Dd0H3uXifhdP9eSj2qcxDC6YSlWSIf7S 	--xuid 2535437528345901 	--userType msa 	--versionType release
+#1652153158
+/home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft/runtime/java-runtime-beta/linux/java-runtime-beta/bin/java -Xss1M -Djava.library.path=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/bin/469a-904c-282f-5e75 -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.136 -cp /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/versions/1.18.2/1.18.2.jar -Xmx32G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dlog4j.configurationFile=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets/log_configs/client-1.12.xml net.minecraft.client.main.Main --username un1xx388 --version 1.18.2 --gameDir /home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft --assetsDir /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets --assetIndex 1.18 --uuid 71a09d8c8ed04c6a8054bf701a6eb5e6 --accessToken eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQzNzUyODM0NTkwMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNzc2ZWUxNzMtNTE3NS00NTVlLWE3MDAtYWIzZTRlOTY2MjU0IiwibmJmIjoxNjUyMTUyMTMxLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTIyMzg1MzEsImlhdCI6MTY1MjE1MjEzMSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiJkYzZmMGIzOTRkYzhkMDhhY2RlNzJkMzBiZmUzZmRmYiJ9.vsr7WCOkm_YJTsfruPV3hJkGG8lFyH8od_u-K_cnzpc --clientId ZvJyqNMQCW3/B72djMf+IK/HPoKQBEQ7Dd0H3uXifhdP9eSj2qcxDC6YSlWSIf7S --xuid 2535437528345901 --userType msa --versionType release
+#1652153219
+/home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft/runtime/java-runtime-beta/linux/java-runtime-beta/bin/java 	-Xss1M 	-Djava.library.path=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/bin/469a-904c-282f-5e75 	-Dminecraft.launcher.brand=minecraft-launcher 	-Dminecraft.launcher.version=2.3.136 	-cp /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/versions/1.18.2/1.18.2.jar 	-Xmx32G 	-XX:+UnlockExperimentalVMOptions 	-XX:+UseG1GC 	-XX:G1NewSizePercent=20 	-XX:G1ReservePercent=20 	-XX:MaxGCPauseMillis=50 	-XX:G1HeapRegionSize=32M 	-Dlog4j.configurationFile=/home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets/log_configs/client-1.12.xml 	net.minecraft.client.main.Main 	--username un1xx388 	--version 1.18.2 	--gameDir /home/reedclanton/.var/app/com.mojang.Minecraft/.minecraft 	--assetsDir /home/reedclanton/.var/app/com.mojang.Minecraft/data/../.minecraft/assets 	--assetIndex 1.18 	--uuid 71a09d8c8ed04c6a8054bf701a6eb5e6 	--accessToken eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQzNzUyODM0NTkwMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNzc2ZWUxNzMtNTE3NS00NTVlLWE3MDAtYWIzZTRlOTY2MjU0IiwibmJmIjoxNjUyMTUyMTMxLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTIyMzg1MzEsImlhdCI6MTY1MjE1MjEzMSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiJkYzZmMGIzOTRkYzhkMDhhY2RlNzJkMzBiZmUzZmRmYiJ9.vsr7WCOkm_YJTsfruPV3hJkGG8lFyH8od_u-K_cnzpc 	--clientId ZvJyqNMQCW3/B72djMf+IK/HPoKQBEQ7Dd0H3uXifhdP9eSj2qcxDC6YSlWSIf7S 	--xuid 2535437528345901 	--userType msa 	--versionType release
+#1652235103
+watch sensors
+#1652235117
+watch --help
+#1652235141
+watch(1)
+#1652235149
+watch sensors
+#1652235190
+sudo watch sensors
+#1652235280
+sensors-detect
+#1652235297
+sudo sensors-detect
+#1652235525
+sensors-detect
+#1652235556
+sudo sensors-detect
+#1652235835
+sensors
+#1652236221
+sensor --help
+#1652236231
+sensors --help
+#1652236292
+sensors -f
+#1652236454
+echo "'$MINTEMP'"
+#1652237046
+pwmconfig
+#1652237051
+sudo pwmconfig
+#1652237197
+f
+#1652237200
+fancontrol
+#1652237207
+sudo fancontrol
+#1652237213
+sudo pwmconfig
+#1652237273
+gedit /usr/sbin/pwc
+#1652237282
+ls-sensors
+#1652237288
+lm-sensors
+#1652237360
+sudo service kmod start
+#1652237439
+sensors -f
+#1652237553
+gedit /sys/class/hwmon/hwmon0/name &
+#1652237566
+gedit /sys/class/hwmon/hwmon1/name &
+#1652237571
+gedit /sys/class/hwmon/hwmon2/name &
+#1652237578
+gedit /sys/class/hwmon/hwmon3/name &
+#1652237588
+gedit /sys/class/hwmon/hwmon4/name &
+#1652237596
+gedit /sys/class/hwmon/hwmon5/name &
+#1652237693
+gedit /sys/class/hwmon/hwmon1/power/control &
+#1652237712
+gedit /sys/class/hwmon/hwmon1/power/runtime_* &
+#1652237746
+gedit /sys/class/hwmon/hwmon1/device/temp &
+#1652238010
+libfprint
+#1652238034
+sudo apt-get update
+#1652238086
+sudo dnf makecache --refresh
+#1652238108
+dnf --help
+#1652238130
+sudo dnf install libfprint
+#1652239002
+sudo dnf install lm-sensors
+#1652239030
+sudo apt install lm-sensors
+#1652239043
+sudo yum isntall lm-sensors
+#1652239050
+sudo yum install lm-sensors
+#1652239062
+lm-sensors
+#1652239070
+lm-sensors --help
+#1652239081
+apt
+#1652239106
+sudo apt install lm-sensors
+#1652239126
+sudo apt --help
+#1652239134
+sudo apt udpate
+#1652239140
+sudo apt update
+#1652239161
+sudo apt search lm-sensors
+#1652239175
+sudo apt search --help
+#1652239208
+sudo apt search -h
+#1652239229
+sudo apt list lm-sensors
+#1652239234
+sudo apt list lm-
+#1652239237
+sudo apt list lm
+#1652239241
+sudo apt search lm
+#1652239244
+sudo apt search lm-
+#1652239247
+sudo apt search
+#1652239251
+sudo apt search l
+#1652239256
+sudo apt search sensor
+#1652239258
+sudo apt search sensors
+#1652239292
+cd ~;c
+#1652239326
+mkdir -p git/public
+#1652239330
+cd git/public/;c
+#1652239337
+git clone https://github.com/TamtamHero/fw-fanctrl.git
+#1652239344
+cd fw-fanctrl/;g
+#1652239395
+ls bin/
+#1652239420
+gedit install.sh &
+#1652239427
+gedit fanctrl.py &
+#1652239547
+gedit config.json &
+#1652239551
+gedit README.md &
+#1652240558
+g
+#1652240564
+g;sudo ./install.sh
+#1652240598
+sensors -f
+#1652240613
+sensors
+#1652240644
+gedit ~/.config/fw-fanctrl/config.json &
+#1652240669
+sudo gedit ~/.config/fw-fanctrl/config.json &
+#1652240720
+sudo service fw-fsnctrl restart
+#1652240733
+sudo ./install.sh remove
+#1652240759
+sudo ./install.sh
+#1652240827
+sudo ./install.sh remove
+#1652240849
+sudo ./install.sh
+#1652240859
+sudo service --help
+#1652240877
+sudo service fw-fanctrl
+#1652240897
+sudo service status fw-fanctrl
+#1652240906
+sudo service status -h
+#1652240926
+sudo service fw-fanctrl status
+#1652240995
+lm-sensors
+#1652241004
+sudo apt update
+#1652241009
+sudo apt install lm-sensors
+#1652241074
+service kmod start
+#1652241090
+sudo apt install kmod
+#1652241103
+sudo serice kmod start
+#1652241115
+sudo service kmod start
+#1652241129
+sudo service list
+#1652242052
+sensors
+#1652242258
+ls /sys/class/hwmon/
+#1652242342
+service fm-fanctrl status
+#1652242412
+sudo ./install.sh remove
+#1652242421
+sudo ./install.sh
+#1652242439
+service fm-fanctrl status
+#1652242455
+sudo service fm-fanctrl status
+#1652242464
+service --help
+#1652242472
+service status --help
+#1652242490
+sudo service fm-fanctrl --rul-restart
+#1652242503
+sudo service fm-fanctrl --full-restart
+#1652242522
+sudo service fm-fanctrl restart
+#1652242651
+g
+#1652242694
+gedit msg.txt &
+#1652242718
+sudo reboot now
+#1652242786
+cd git/public/fw-fanctrl/;g
+#1652242792
+gedit install.sh &
+#1652242799
+gedit fanctrl.py &
+#1652242802
+gedit config.json &
+#1652242806
+gedit README.md &
+#1652242811
+gedit msg.txt &
+#1652242835
+g;sudo service fm-fanctrl status
+#1652242854
+g;sudo ./isntall.sh remove
+#1652242868
+g;sudo ./install.sh remove
+#1652242888
+g;sudo ./install.sh
+#1652242902
+sudo service fm-fanctrl.service status
+#1652243759
+g;sudo ./install.sh remove
+#1652243813
+g;sudo ./install.sh
+#1652245414
+cd git/public/fw-fanctrl/;g
+#1652245420
+gedit install.sh &
+#1652245437
+gedit fanctrl.py &
+#1652245442
+gedit config.json &
+#1652245447
+gedit README.md &
+#1652245464
+g;sudo service fm-fanctrl status
+#1654018034
+cd Documents/Python/
+#1654018036
+c
+#1654018067
+gedit tmp.py &
+#1654018081
+gedit temp.py &
+#1654018688
+exi
+#1654018690
+exit
+#1655957683
+c
+#1655957706
+cd ls Documents/
+#1655957711
+ls Documents/
+#1655957717
+cd Documents/Python/;c
+#1655957731
+cd conways_game_of_life/;c
+#1655957736
+gedit conways_game_of_life.py &
+#1655958093
+c;conways_game_of_life.py 
+#1655964321
+shutdown now
+#1656470309
+cd bash/
+#1656470310
+c
+#1656470317
+gedit bash_aliases &
+#1656470325
+gedit bash_profile &
+#1656470333
+gedit bash_functions &
+#1656470349
+gedit functions/variables-global.sh &
+#1656470357
+gedit functions/log.sh &
+#1656470363
+gedit functions/output.sh &
+#1656470370
+gedit functions/checkRequiredOpts.sh &
+#1656473245
+c
+#1656473251
+ls functions/
+#1656473542
+log --help
+#1656473552
+ls -a functions/
+#1656473560
+chmod +x log.sh
+#1656473569
+chmod +x functions/log.sh 
+#1656473577
+c;log --help
+#1656473582
+c
+#1656473593
+chmod +x functions/output.sh 
+#1656473605
+chmod +x functions/checkRequiredOpts.sh 
+#1656473614
+c;log --help
+#1656527324
+checkRequiredOpts --help
+#1656527337
+checkRequiredOpts
+#1656527340
+checkRequiredOpts 
+#1656527611
+checkRequiredOpts --help
+#1656527623
+src
+#1656527627
+checkRequiredOpts --help
+#1656527661
+c
+#1656527671
+functions/checkRequiredOpts.sh --help
+#1656527733
+functions/checkRequiredOpts.sh 
+#1656527736
+functions/checkRequiredOpts.sh -h
+#1656527859
+functions/checkRequiredOpts.sh "docTxt" --help
+#1656528396
+functions/checkRequiredOpts.sh --help
+#1656528426
+functions/checkRequiredOpts.sh "docTxt" -a="arg1Val"
+#1656528434
+functions/checkRequiredOpts.sh "docTxt" -a=""
+#1656528472
+functions/checkRequiredOpts.sh "$LOG_DOC" -a=""
+#1656528487
+echo "'$LOG_DOC'"
+#1656528510
+functions/checkRequiredOpts.sh "$CHECK_REQUIRED_OPTS_DOCS" -a=""
+#1656528521
+echo "'$CHECK_REQUIRED_OPTS_DOCS'"
+#1656528525
+functions/checkRequiredOpts.sh "docTxt" -a=""
+#1656528561
+src
+#1656528565
+functions/checkRequiredOpts.sh "docTxt" -a=""
+#1656528611
+src
+#1656528670
+log -e -c="$USER-trm" -m="msg1"
+#1656528730
+src
+#1656528735
+log -e -c="$USER-trm" -m="msg1"
+#1656528777
+src
+#1656528778
+log -e -c="$USER-trm" -m="msg1"
+#1656529400
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529431
+src
+#1656529434
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529486
+c;src
+#1656529488
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529509
+c;src
+#1656529511
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529539
+c;src
+#1656529540
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529605
+c;src
+#1656529607
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529631
+c;log -e -c="$USER-trm" -m=""
+#1656529644
+c;src
+#1656529646
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529649
+c;log -e -c="$USER-trm" -m=""
+#1656529676
+c;src
+#1656529677
+c;log -e -c="$USER-trm" -m=""
+#1656529730
+c;src
+#1656529731
+c;log -e -c="$USER-trm" -m=""
+#1656529746
+c;src
+#1656529747
+c;log -e -c="$USER-trm" -m=""
+#1656529752
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529769
+c;src
+#1656529771
+c;log -e -c="$USER-trm" -m=""
+#1656529773
+c;log -e -c="$USER-trm" -m="msg1"
+#1656529783
+c;log -e -c="$USER-trm" -m="msg1" -m="msg2"
+#1656529800
+c;log -e -c="$USER-trm" -m="msg1" -m="msg2" -m="msg3"
+#1656529813
+c;log -e -c="$USER-trm" -m="" -m="" -m=""
+#1656529866
+c;src
+#1656529872
+c;log -e -c="$USER-trm"
+#1656529890
+c;log -e -c="$USER-trm" -q
+#1656529931
+c;src
+#1656529935
+c;log -e -c="$USER-trm"
+#1656529983
+c;src
+#1656529985
+c;log -e -c="$USER-trm"
+#1656530020
+c;src
+#1656530034
+c;log -e -c="$USER-trm"
+#1656530144
+c;src
+#1656530146
+c;log -e -c="$USER-trm"
+#1656531907
+c;src
+#1656531910
+c;log -e -c="$USER-trm"
+#1656532029
+c;src
+#1656532030
+c;log -e -c="$USER-trm"
+#1656532053
+c;src
+#1656532055
+c;log -e -c="$USER-trm"
+#1656532067
+c;src
+#1656532069
+c;log -e -c="$USER-trm"
+#1656532104
+c;src
+#1656532105
+c;log -e -c="$USER-trm"
+#1656532129
+c;log -e -c="$USER-trm" -m=
+#1656532135
+c;log -e -c="$USER-trm" -m=""
+#1656532145
+c;log -e -c="$USER-trm" -m=l
+#1656532229
+c;src
+#1656532231
+c;log -e -c="$USER-trm"
+#1656532233
+c;log -e -c="$USER-trm" -m=
+#1656532235
+c;log -e -c="$USER-trm" -m=""
+#1656532237
+c;log -e -c="$USER-trm" -m=l
+#1656532294
+checkRequiredOpts --help
+#1656532450
+checkRequiredOpts
+#1656532602
+c;src
+#1656532620
+c;log -e -c="$USER-trm"
+#1656532633
+c;src
+#1656532639
+c;log -e -c="$USER-trm"
+#1656532643
+c;log -e -c="$USER-trm" -m=
+#1656532646
+c;log -e -c="$USER-trm" -m=""
+#1656532649
+c;log -e -c="$USER-trm" -m=l
+#1656532652
+checkRequiredOpts --help
+#1656532656
+checkRequiredOpts
+#1656532769
+c;src
+#1656532776
+c;log -e -c="$USER-trm"
+#1656532793
+c;log -e -c="$USER-trm" -m=
+#1656532798
+c;log -e -c="$USER-trm" -m=""
+#1656532800
+c;log -e -c="$USER-trm" -m=l
+#1656532836
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656532850
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656532923
+gedit functions/variables-logger.sh &
+#1656533022
+exit
+#1656533041
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656533136
+mv bash/functions/variables-logger.sh bash/functions/constants-logger.sh
+#1656533142
+cd bash/functions/;c
+#1656533157
+c;src
+#1656533298
+checkRequiredOpts --help
+#1656533443
+gedit constants-logger.sh &
+#1656533608
+mkdir constants
+#1656533614
+mkdir variables
+#1656533617
+c
+#1656533635
+mv constants-logger.sh constants/logger.sh
+#1656533657
+gedit constants/output.sh &
+#1656533661
+gedit constants/logger.sh &
+#1656534261
+mv constants/logger.sh constants/log.sh
+#1656534265
+gedit constants/log.sh &
+#1656535170
+rm -rf variables/
+#1656535172
+c
+#1656537094
+gedit /etc/profile &
+#1656537347
+gedit ../../.bashrc &
+#1656537397
+gedit ../../.bash_profile &
+#1656537852
+ls -a ~
+#1656538107
+exit
+#1656538097
+src
+#1656538113
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656538118
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656538122
+c;log -e -c="$USER-trm" -m=l
+#1656538131
+ls -a ~
+#1656538145
+rm ~/bash/bash_profile 
+#1656538193
+c;src
+#1656538442
+c;createHeaderFooter --help
+#1656538464
+cd bash/functions/;c
+#1656538486
+mkdir healperFunctions
+#1656538523
+mkdir helperFunctions
+#1656538527
+rm -rf healperFunctions/
+#1656538542
+gedit helperFunctions/createHeaderFooter.sh &
+#1656538692
+rm -rf helperFunctions/
+#1656538807
+c;src
+#1656538843
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539153
+c;src
+#1656539155
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539167
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656539593
+c;src
+#1656539597
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539599
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656539644
+c;src
+#1656539649
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539652
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656539661
+c;src
+#1656539662
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539697
+c;log -e -c="$USER-trm" --full-title -m=l
+#1656539699
+c;src
+#1656539700
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656539710
+log -e -c="$USER-trm" --full-title -m=l
+#1656540449
+c;src
+#1656540453
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540491
+log -e -c="$USER-trm" --full-title -m=l
+#1656540494
+c;src
+#1656540495
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540499
+log -e -c="$USER-trm" --full-title -m=l
+#1656540675
+c;src
+#1656540677
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540679
+log -e -c="$USER-trm" --full-title -m=l
+#1656540750
+c;src
+#1656540751
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540758
+log -e -c="$USER-trm" --full-title -m=l
+#1656540783
+c;src
+#1656540784
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540792
+log -e -c="$USER-trm" --full-title -m=l
+#1656540889
+c;src
+#1656540891
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540901
+log -e -c="$USER-trm" --full-title -m=l
+#1656540962
+c;src
+#1656540964
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656540966
+log -e -c="$USER-trm" --full-title -m=l
+#1656541520
+c;src
+#1656541522
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656541524
+log -e -c="$USER-trm" --full-title -m=l
+#1656541764
+c;src
+#1656541766
+c;log -e -c="$USER-trm" --line-title -m=l
+#1656541769
+log -e -c="$USER-trm" --full-title -m=l

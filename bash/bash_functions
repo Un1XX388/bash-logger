@@ -1,0 +1,33 @@
+#! /bin/bash
+
+ ######################
+## Path Short Hand(s) ##
+ ######################
+# Bash root.
+declare -x BASH_ROOT=$HOME/bash
+# Bash function(s) root.
+declare -x BASH_FUNCTIONS=$BASH_ROOT/functions
+# Bash function's constant(s).
+declare -x BASH_FUNCTIONS_CONSTANTS=$BASH_FUNCTIONS/constants
+
+ ###########################
+## Global Function(s)/Data ##
+ ###########################
+## Data ##
+# Includes variables relevant to all functions.
+source $BASH_FUNCTIONS/variables-global.sh
+
+## Function(s) ##
+# Include output producing/formatting function(s) used by other function(s) in the same/child directories.
+#   Note: If location/name of this file changes, update all other *.sh files in the same directory.
+alias output=$BASH_FUNCTIONS/output.sh
+# Include log function used by other function(s) in the same/child directories.
+alias checkRequiredOpts=$BASH_FUNCTIONS/checkRequiredOpts.sh
+# Include log function used by other function(s) in the same/child directories.
+alias log=$BASH_FUNCTIONS/log.sh
+
+ ################################
+## <NameOfDirectoryInFunctions> ##
+ ################################
+# NoOp
+
