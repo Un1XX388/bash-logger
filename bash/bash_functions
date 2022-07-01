@@ -24,7 +24,10 @@ alias output=$BASH_FUNCTIONS/output.sh
 # Include log function used by other function(s) in the same/child directories.
 alias checkRequiredOpts=$BASH_FUNCTIONS/checkRequiredOpts.sh
 # Include log function used by other function(s) in the same/child directories.
-alias log=$BASH_FUNCTIONS/log.sh
+function log() {
+	$BASH_FUNCTIONS/log.sh "${@}"
+}
+export -f log
 
  ################################
 ## <NameOfDirectoryInFunctions> ##

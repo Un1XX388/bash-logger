@@ -2,13 +2,13 @@
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
-	. /etc/bashrc
+	source /etc/bashrc
 fi
 if [ -f $HOME/bash/bash_aliases ]; then
-	. $HOME/bash/bash_aliases
+	source $HOME/bash/bash_aliases
 fi
 if [ -f $HOME/bash/bash_functions ]; then
- 	source $HOME/bash/bash_functions
+	source $HOME/bash/bash_functions
 fi
 
  #####################
