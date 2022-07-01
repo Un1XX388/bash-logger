@@ -81,6 +81,7 @@ function example {
 	log $debugLvl -m="All required argument(s) were given."
 }
 
+# Allows calling of file's function(s) from the terminal (fileName.sh functionName args).
 case "$1" in
     "")
     	;;
